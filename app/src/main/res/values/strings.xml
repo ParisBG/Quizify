@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Paris\' Quiz</string>
+    <string name="question_text">
+        In 2006, Paris B. Garrett spent
+        two weeks in the city of Atlanta for work related purposes.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Good Job Nigga!</string>
+    <string name="incorrect_toast">Really?!</string>
+    <string name="next_button">NEXT</string>
+    <string name="question_nfl">There are ZERO African American team owners
+        in the National Football League (NFL)</string>
+    <string name="question_nba">In 2018, Lebron
+        James (arguably the best player of all time)
+        plays for the Cleveland Cavaliers</string>
+    <string name="question_bible">In the Bible
+        it states that Jesus\' birthday is in December</string>
+    <string name="question_feb">There are 30 days
+        in the month that is black history month</string>
+    <string name="question_rap">Lil\' Kim is considered
+        the sexiest female rapper in 2018</string>
+    <string name="prev_button">PREVIOUS</string>
+    <string name="made_by">THIS APP WAS SOLELY CREATED BY PARIS B. GARRETT</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong&#8230;</string>
+    <string name="api_Level">API LEVEL</string>
+    <string name="three">Cheats Remaining: </string>
+
+</resources>
